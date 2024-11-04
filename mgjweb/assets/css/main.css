@@ -97,10 +97,10 @@ h6, i[class^=flaticon-], .body__overlay {
 :root { 
   --rajdhani-font: 'Rajdhani', sans-serif;
   --rubik-font: 'Rubik', sans-serif;
-  /* colors */
-  --theme-color: #FF6600;
-  --color-1: #670099;
-  --black: #121212;
+  /* colors naranja: FF6600 morado: 670099*/
+  --theme-color: #f39f03;
+  --color-1: #0694c4;
+  --black: #0d0b0b;
   --black-2: #01273C;
   --white: #ffffff;
   --gray: #707070;
